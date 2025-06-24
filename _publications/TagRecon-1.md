@@ -10,4 +10,5 @@ paperurl: 'http://oscarWlde.github.io/files/Wang 等 - TagRecon Fine-Grained 3D 
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
 
