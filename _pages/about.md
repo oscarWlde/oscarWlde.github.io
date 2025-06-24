@@ -12,6 +12,6 @@ I am **Ziang Wang**, a Research Assistant at the Digital World with Intelligent 
 
 My research focuses on **generative AI-driven wireless technologies** and **intelligent sensing-based HCI applications**.
 
-📧 ziangwang@bit.edu.com  
+📧 ziangwang@qq.com  
 📍 Based in Guangzhou, China  
 🎯 Seeking PhD positions for Fall 2025 or Spring 2026
