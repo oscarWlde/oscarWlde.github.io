@@ -13,7 +13,6 @@ You can find my CV here: [Ziang's Curriculum Vitae](../assets/Curriculum_Vitae.p
 I am excited to be joining the SONIC Lab at Fudan University to pursue my Ph.D., under the guidance of [Prof. Xin Wang](https://faculty.fudan.edu.cn/wangxin/zh_CN/) from [College of Computer Science and Artificial Intelligence](https://cs.fudan.edu.cn/).
 
 
-[Email](ziangwang@qq.com) / [Github](https://github.com//oscarWlde)
 
 My research focuses on **generative AI-driven wireless technologies** and **intelligent sensing-based HCI applications**.
 
