@@ -1,5 +1,5 @@
 ---
-title: "Non-Intrusive Item Authentication with High  Robustness for RFID-Enabled Logistics"
+title: "Non-Intrusive Item Authentication with High Robustness for RFID-Enabled Logistics"
 collection: publications
 category: conferences
 permalink: #/publication/2024-02-17-paper-title-number-4
